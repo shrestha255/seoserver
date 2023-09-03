@@ -1,0 +1,7 @@
+{
+  "name": "SeoResearch",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
